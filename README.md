@@ -8,5 +8,5 @@
 # Taller 2: https://github.com/Gamb19/Taller-2_-corte-2
 # Taller 3: https://github.com/Gamb19/Taller-Supermercado-Cine
 
-#Tercer corte
+# Tercer corte
 # Taller 1: https://github.com/Gamb19/Taller1-3erCorte-Parcial
