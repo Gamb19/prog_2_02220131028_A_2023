@@ -9,4 +9,4 @@
 # Taller 3: https://github.com/Gamb19/Taller-Supermercado-Cine
 
 #Tercer corte
-#Taller 1: https://github.com/Gamb19/Taller1-3erCorte-Parcial
+# Taller 1: https://github.com/Gamb19/Taller1-3erCorte-Parcial
